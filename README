@@ -1,0 +1,23 @@
+ChemCell - Cheminformatics Workflow Automation for Microsoft Excel
+
+Copyright (c) 2010 Collaborative Drug Discovery, Inc.
+
+ChemCell is a Microsoft Excel utility for automating chemistry workflows. Among other uses, it can assign SMILES strings prior to uploading datasets to Collaborative Drug Discovery (http://collaborativedrug.com).
+
+Installation and Use:
+
+To begin using ChemCell, double-click on the chemcell.xls file contained in this directory. Click "Enable Macros" if asked.
+
+To upload structures to CDD, apply the formula getSMILES() to all cells containing chemical structure names or Chemical Abstracts Service (CAS) Registry Numbers. Then map the SMILES column to "Structure".
+
+System Requirements:
+
+ChemCell has been tested with Windows XP running Internet Explorer 6 and Excel 97.
+
+License:
+
+ChemCell is distributed under the MIT License. See the LICENSE file for details.
+
+Contributors:
+
+Richard L. Apodaca            http://depth-first.com
